@@ -1,0 +1,13 @@
+{
+  "name": "DrakNode",
+  "symbol": "DN",
+  "decimals": 9,
+  "description": " Test.",
+  "image": "https://draknode.github.io/logo.png",
+  "external_url": "https://test.io",
+  "tags": ["test", "test", "test", "test", "test"],
+  "creator": {
+    "name": "DrakNode",
+    "website": "https://draknode.hun"
+  }
+}
